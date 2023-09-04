@@ -1,0 +1,18 @@
+file_type: csv
+dataset_name: testfile
+file_name: car data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Car_Name 
+    - Year 
+    - Selling_Price 
+    - Present_Price 
+    - Kms_Driven
+    - Fuel_Type 
+    - Seller_Type 
+    - Transmission
+    
+    
