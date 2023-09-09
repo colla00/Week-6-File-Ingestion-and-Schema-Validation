@@ -1,7 +1,7 @@
 file_type: csv
-dataset_name: en-books-dataset
+dataset_name: test_data
 file_name: test_data
-table_name: edsurv
+table_name: test
 inbound_delimiter: ","
 outbound_delimiter: "|"
 skip_leading_rows: 1
