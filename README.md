@@ -1,1 +1,1 @@
-# fWeek 6: File Ingestion and Schema Validation
+# Week 6: File Ingestion and Schema Validation
