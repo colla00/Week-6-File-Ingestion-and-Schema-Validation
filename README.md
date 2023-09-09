@@ -1,1 +1,2 @@
-# Week 6: File Ingestion and Schema Validation
+# file-ingestion
+Data Glacier Week 6: File ingestion and schema validation
